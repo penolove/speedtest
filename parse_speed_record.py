@@ -61,7 +61,7 @@ def save_img(all_comapny_records, color, index=2, title='foo'):
 
 if __name__ == "__main__":
     all_company_records = []
-    company = ["X_start.txt","Xyphone.txt","Xareast.txt"]
+    company = ["X_star.txt","Xyphone.txt","Xareast.txt"]
     color_list = ["#9467bd","#ff7f0e","r"] #puple , orange,red
     for cp in company:
         reduced_records = parse_wrapper(file_name=cp)
