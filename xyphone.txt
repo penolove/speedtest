@@ -1,0 +1,684 @@
+2017-09-11 13:27:03
+Using server: 210.200.212.249
+Ping: 22 ms
+Download speed: 9.01 Mbps
+Upload speed: 16.45 Mbps
+2017-09-11 13:42:56
+Using server: spttp1.tfn.net.tw
+Ping: 20 ms
+Download speed: 6.26 Mbps
+Upload speed: 19.50 Mbps
+2017-09-11 13:53:15
+Using server: spttp1.tfn.net.tw
+Ping: 20 ms
+Download speed: 23.60 Mbps
+Upload speed: 20.05 Mbps
+2017-09-11 14:03:23
+Using server: spttp1.tfn.net.tw
+Ping: 24 ms
+Download speed: 22.05 Mbps
+Upload speed: 21.31 Mbps
+2017-09-11 14:13:32
+Using server: spt1.seed.net.tw
+Ping: 19 ms
+Download speed: 13.35 Mbps
+Upload speed: 24.20 Mbps
+2017-09-11 14:23:43
+Using server: spt1.seed.net.tw
+Ping: 22 ms
+Download speed: 11.26 Mbps
+Upload speed: 25.04 Mbps
+2017-09-11 14:33:58
+Using server: spttp1.tfn.net.tw
+Ping: 20 ms
+Download speed: 16.39 Mbps
+Upload speed: 22.04 Mbps
+2017-09-11 14:44:08
+Using server: spt1.seed.net.tw
+Ping: 28 ms
+Download speed: 13.98 Mbps
+Upload speed: 21.92 Mbps
+2017-09-11 14:54:18
+Using server: 210.200.212.249
+Ping: 22 ms
+Download speed: 16.38 Mbps
+Upload speed: 14.10 Mbps
+2017-09-11 15:04:28
+Using server: 210.200.212.249
+Ping: 23 ms
+Download speed: 16.40 Mbps
+Upload speed: 19.98 Mbps
+2017-09-11 15:14:40
+Using server: spt1.seed.net.tw
+Ping: 24 ms
+Download speed: 12.07 Mbps
+Upload speed: 25.63 Mbps
+2017-09-11 15:24:54
+Using server: 210.200.212.249
+Ping: 27 ms
+Download speed: 10.35 Mbps
+Upload speed: 18.53 Mbps
+2017-09-11 15:35:07
+Using server: parqspt1.fetnet.net
+Ping: 24 ms
+Download speed: 22.33 Mbps
+Upload speed: 23.05 Mbps
+2017-09-11 15:45:15
+Using server: 210.200.212.249
+Ping: 22 ms
+Download speed: 11.11 Mbps
+Upload speed: 17.86 Mbps
+2017-09-11 15:55:27
+Using server: 210.200.212.249
+Ping: 21 ms
+Download speed: 8.01 Mbps
+Upload speed: 10.37 Mbps
+2017-09-11 16:05:44
+Using server: sp1.dongfong.ml
+Ping: 22 ms
+Download speed: 12.94 Mbps
+Upload speed: 13.24 Mbps
+2017-09-11 16:15:58
+Using server: spttp1.tfn.net.tw
+Ping: 22 ms
+Download speed: 12.48 Mbps
+Upload speed: 19.28 Mbps
+2017-09-11 16:26:11
+Using server: 210.200.212.249
+Ping: 21 ms
+Download speed: 12.70 Mbps
+Upload speed: 20.21 Mbps
+2017-09-11 16:36:23
+Using server: sp1.dongfong.ml
+Ping: 22 ms
+Download speed: 19.42 Mbps
+Upload speed: 12.95 Mbps
+2017-09-11 16:46:32
+Using server: spttp1.tfn.net.tw
+Ping: 24 ms
+Download speed: 16.24 Mbps
+Upload speed: 13.81 Mbps
+2017-09-11 16:56:44
+Using server: 210.200.212.249
+Ping: 21 ms
+Download speed: 9.47 Mbps
+Upload speed: 18.43 Mbps
+2017-09-11 17:06:58
+Using server: spt1.seed.net.tw
+Ping: 20 ms
+Download speed: 10.21 Mbps
+Upload speed: 23.56 Mbps
+2017-09-11 17:17:11
+Using server: seedsptp1.seed.net.tw
+Ping: 20 ms
+Download speed: 11.83 Mbps
+Upload speed: 20.91 Mbps
+2017-09-11 17:27:22
+Using server: spttp1.tfn.net.tw
+Ping: 19 ms
+Download speed: 27.32 Mbps
+Upload speed: 19.48 Mbps
+2017-09-11 17:37:31
+Using server: spttp1.tfn.net.tw
+Ping: 20 ms
+Download speed: 30.22 Mbps
+Upload speed: 18.54 Mbps
+2017-09-11 17:47:38
+Using server: spt1.seed.net.tw
+Ping: 20 ms
+Download speed: 28.32 Mbps
+Upload speed: 27.43 Mbps
+2017-09-11 17:57:52
+Using server: seedsptp1.seed.net.tw
+Ping: 20 ms
+Download speed: 17.66 Mbps
+Upload speed: 20.77 Mbps
+2017-09-11 18:08:02
+Using server: sp1.dongfong.ml
+Ping: 21 ms
+Download speed: 11.21 Mbps
+Upload speed: 4.75 Mbps
+2017-09-11 18:18:15
+Using server: sp1.dongfong.ml
+Ping: 19 ms
+Download speed: 20.24 Mbps
+Upload speed: 12.73 Mbps
+2017-09-11 18:28:25
+Using server: spttp1.tfn.net.tw
+Ping: 22 ms
+Download speed: 19.59 Mbps
+Upload speed: 22.17 Mbps
+2017-09-11 18:38:35
+Using server: spttp1.taiwanmobile.com
+Ping: 25 ms
+Download speed: 21.30 Mbps
+Upload speed: 16.82 Mbps
+2017-09-11 18:48:44
+Using server: spt1.seed.net.tw
+Ping: 20 ms
+Download speed: 17.84 Mbps
+Upload speed: 23.67 Mbps
+2017-09-11 18:58:55
+Using server: seedsptp1.seed.net.tw
+Ping: 19 ms
+Download speed: 16.69 Mbps
+Upload speed: 17.48 Mbps
+2017-09-11 19:09:06
+Using server: spttp1.tfn.net.tw
+Ping: 19 ms
+Download speed: 17.91 Mbps
+Upload speed: 23.26 Mbps
+2017-09-11 19:19:15
+Using server: spttp1.tfn.net.tw
+Ping: 20 ms
+Download speed: 14.52 Mbps
+Upload speed: 18.64 Mbps
+2017-09-11 19:29:25
+Using server: spttp1.tfn.net.tw
+Ping: 20 ms
+Download speed: 14.27 Mbps
+Upload speed: 20.93 Mbps
+2017-09-11 19:39:38
+Using server: 210.200.212.249
+Ping: 21 ms
+Download speed: 13.19 Mbps
+Upload speed: 16.04 Mbps
+2017-09-11 19:49:51
+2017-09-11 19:59:51
+Using server: spt1.seed.net.tw
+Ping: 20 ms
+Download speed: 29.49 Mbps
+Upload speed: 21.13 Mbps
+2017-09-11 20:09:58
+Using server: spttp1.tfn.net.tw
+Ping: 21 ms
+Download speed: 29.87 Mbps
+Upload speed: 22.22 Mbps
+2017-09-11 20:20:11
+Using server: 210.200.212.249
+Ping: 21 ms
+Download speed: 15.14 Mbps
+Upload speed: 19.62 Mbps
+2017-09-11 20:30:23
+Using server: sp1.dongfong.ml
+Ping: 21 ms
+Download speed: 10.41 Mbps
+Upload speed: 14.01 Mbps
+2017-09-11 20:40:37
+2017-09-11 20:50:38
+Using server: 210.200.212.249
+Ping: 24 ms
+Download speed: 20.31 Mbps
+Upload speed: 16.87 Mbps
+2017-09-11 21:00:47
+Using server: spttp1.tfn.net.tw
+Ping: 20 ms
+Download speed: 19.13 Mbps
+Upload speed: 13.94 Mbps
+2017-09-11 21:10:56
+Using server: seedsptp1.seed.net.tw
+Ping: 20 ms
+Download speed: 13.71 Mbps
+Upload speed: 4.47 Mbps
+2017-09-11 21:21:09
+Using server: spttp1.tfn.net.tw
+Ping: 22 ms
+Download speed: 15.10 Mbps
+Upload speed: 4.56 Mbps
+2017-09-11 21:31:22
+Using server: spttp1.tfn.net.tw
+Ping: 20 ms
+Download speed: 10.99 Mbps
+Upload speed: 16.16 Mbps
+2017-09-11 21:41:35
+Using server: 210.200.212.249
+Ping: 21 ms
+Download speed: 18.84 Mbps
+Upload speed: 15.89 Mbps
+2017-09-11 21:51:46
+Using server: spttp1.tfn.net.tw
+Ping: 20 ms
+Download speed: 15.35 Mbps
+Upload speed: 15.59 Mbps
+2017-09-11 22:01:57
+Using server: 210.200.212.249
+Ping: 21 ms
+Download speed: 12.95 Mbps
+Upload speed: 16.77 Mbps
+2017-09-11 22:12:12
+Using server: spttp1.tfn.net.tw
+Ping: 19 ms
+Download speed: 13.90 Mbps
+Upload speed: 14.96 Mbps
+2017-09-11 22:22:25
+Using server: spttp1.taiwanmobile.com
+Ping: 19 ms
+Download speed: 14.93 Mbps
+Upload speed: 14.80 Mbps
+2017-09-11 22:32:38
+Using server: 210.200.212.249
+Ping: 21 ms
+Download speed: 17.35 Mbps
+Upload speed: 16.05 Mbps
+2017-09-11 22:42:50
+Using server: spttp1.tfn.net.tw
+Ping: 24 ms
+Download speed: 15.99 Mbps
+Upload speed: 10.42 Mbps
+2017-09-11 22:53:00
+Using server: parqspt1.fetnet.net
+Ping: 30 ms
+Download speed: 18.59 Mbps
+Upload speed: 16.70 Mbps
+2017-09-11 23:03:16
+Using server: spt1.seed.net.tw
+Ping: 19 ms
+Download speed: 13.38 Mbps
+Upload speed: 13.84 Mbps
+2017-09-11 23:13:32
+Using server: spttp1.taiwanmobile.com
+Ping: 22 ms
+Download speed: 14.76 Mbps
+Upload speed: 4.31 Mbps
+2017-09-11 23:23:46
+Using server: parqspt1.fetnet.net
+Ping: 37 ms
+Download speed: 15.23 Mbps
+Upload speed: 11.67 Mbps
+2017-09-11 23:33:59
+Using server: spttp1.tfn.net.tw
+Ping: 20 ms
+Download speed: 14.07 Mbps
+Upload speed: 15.25 Mbps
+2017-09-11 23:44:11
+Using server: spttp1.tfn.net.tw
+Ping: 22 ms
+Download speed: 16.56 Mbps
+Upload speed: 13.32 Mbps
+2017-09-11 23:54:21
+Using server: seedsptp1.seed.net.tw
+Ping: 22 ms
+Download speed: 14.35 Mbps
+Upload speed: 14.53 Mbps
+2017-09-12 00:04:33
+Using server: 210.200.212.249
+Ping: 22 ms
+Download speed: 7.78 Mbps
+Upload speed: 13.86 Mbps
+2017-09-12 00:14:49
+Using server: spttp1.tfn.net.tw
+Ping: 24 ms
+Download speed: 15.41 Mbps
+Upload speed: 16.82 Mbps
+2017-09-12 00:25:01
+Using server: spt1.seed.net.tw
+Ping: 25 ms
+Download speed: 20.65 Mbps
+Upload speed: 21.91 Mbps
+2017-09-12 00:35:10
+Using server: 210.200.212.249
+Ping: 20 ms
+Download speed: 25.16 Mbps
+Upload speed: 15.07 Mbps
+2017-09-12 00:45:18
+Using server: seedsptp1.seed.net.tw
+Ping: 26 ms
+Download speed: 12.18 Mbps
+Upload speed: 21.95 Mbps
+2017-09-12 00:55:32
+Using server: sp1.dongfong.ml
+Ping: 25 ms
+Download speed: 16.63 Mbps
+Upload speed: 17.78 Mbps
+2017-09-12 01:05:44
+Using server: 210.200.212.249
+Ping: 24 ms
+Download speed: 7.61 Mbps
+Upload speed: 21.90 Mbps
+2017-09-12 01:16:02
+Using server: sp1.dongfong.ml
+Ping: 23 ms
+Download speed: 16.75 Mbps
+Upload speed: 22.22 Mbps
+2017-09-12 01:26:12
+Using server: 210.200.212.249
+Ping: 25 ms
+Download speed: 13.27 Mbps
+Upload speed: 20.71 Mbps
+2017-09-12 01:36:23
+Using server: parqspt1.fetnet.net
+Ping: 22 ms
+Download speed: 14.96 Mbps
+Upload speed: 20.79 Mbps
+2017-09-12 01:46:34
+Using server: 210.200.212.249
+Ping: 22 ms
+Download speed: 9.46 Mbps
+Upload speed: 20.83 Mbps
+2017-09-12 01:56:49
+Using server: sp1.dongfong.ml
+Ping: 20 ms
+Download speed: 8.52 Mbps
+Upload speed: 19.32 Mbps
+2017-09-12 02:07:05
+Using server: 210.200.212.249
+Ping: 20 ms
+Download speed: 12.25 Mbps
+Upload speed: 22.13 Mbps
+2017-09-12 02:17:17
+Using server: sp1.dongfong.ml
+Ping: 22 ms
+Download speed: 15.66 Mbps
+Upload speed: 22.00 Mbps
+2017-09-12 02:27:28
+Using server: spt1.seed.net.tw
+Ping: 21 ms
+Download speed: 33.62 Mbps
+Upload speed: 20.10 Mbps
+2017-09-12 02:37:38
+Using server: spttp1.tfn.net.tw
+Ping: 21 ms
+Download speed: 20.42 Mbps
+Upload speed: 12.73 Mbps
+2017-09-12 02:47:49
+Using server: sp1.dongfong.ml
+Ping: 27 ms
+Download speed: 28.90 Mbps
+Upload speed: 18.43 Mbps
+2017-09-12 02:57:59
+Using server: sp1.dongfong.ml
+Ping: 18 ms
+Download speed: 23.75 Mbps
+Upload speed: 16.38 Mbps
+2017-09-12 03:08:07
+Using server: sp1.dongfong.ml
+Ping: 19 ms
+Download speed: 25.47 Mbps
+Upload speed: 18.58 Mbps
+2017-09-12 03:18:18
+Using server: sp1.dongfong.ml
+Ping: 20 ms
+Download speed: 25.00 Mbps
+Upload speed: 19.63 Mbps
+2017-09-12 03:28:27
+Using server: spt1.seed.net.tw
+Ping: 27 ms
+Download speed: 15.28 Mbps
+Upload speed: 21.77 Mbps
+2017-09-12 03:38:38
+Using server: spttp1.tfn.net.tw
+Ping: 22 ms
+Download speed: 16.85 Mbps
+Upload speed: 19.74 Mbps
+2017-09-12 03:48:48
+Using server: spttp1.tfn.net.tw
+Ping: 28 ms
+Download speed: 16.26 Mbps
+Upload speed: 16.76 Mbps
+2017-09-12 03:58:58
+Using server: parqspt1.fetnet.net
+Ping: 30 ms
+Download speed: 12.86 Mbps
+Upload speed: 20.43 Mbps
+2017-09-12 04:09:12
+Using server: spttp1.tfn.net.tw
+Ping: 28 ms
+Download speed: 14.02 Mbps
+Upload speed: 4.39 Mbps
+2017-09-12 04:19:25
+Using server: parqspt1.fetnet.net
+Ping: 19 ms
+Download speed: 12.92 Mbps
+Upload speed: 3.14 Mbps
+2017-09-12 04:29:40
+Using server: spttp1.tfn.net.tw
+Ping: 22 ms
+Download speed: 20.81 Mbps
+Upload speed: 11.46 Mbps
+2017-09-12 04:39:49
+Using server: parqspt1.fetnet.net
+Ping: 25 ms
+Download speed: 21.10 Mbps
+Upload speed: 15.92 Mbps
+2017-09-12 04:49:57
+Using server: 210.200.212.249
+Ping: 21 ms
+Download speed: 14.76 Mbps
+Upload speed: 19.23 Mbps
+2017-09-12 05:00:08
+Using server: spt1.seed.net.tw
+Ping: 26 ms
+Download speed: 21.79 Mbps
+Upload speed: 18.86 Mbps
+2017-09-12 05:10:17
+Using server: sp1.dongfong.ml
+Ping: 22 ms
+Download speed: 16.12 Mbps
+Upload speed: 16.63 Mbps
+2017-09-12 05:20:30
+Using server: spt1.seed.net.tw
+Ping: 21 ms
+Download speed: 22.34 Mbps
+Upload speed: 21.77 Mbps
+2017-09-12 05:30:57
+2017-09-12 05:43:13
+Using server: spt1.seed.net.tw
+Ping: 23 ms
+Download speed: 21.01 Mbps
+Upload speed: 20.58 Mbps
+2017-09-12 05:53:21
+Using server: spt1.seed.net.tw
+Ping: 22 ms
+Download speed: 19.02 Mbps
+Upload speed: 17.35 Mbps
+2017-09-12 06:03:31
+Using server: spttp1.tfn.net.tw
+Ping: 23 ms
+Download speed: 16.15 Mbps
+Upload speed: 14.16 Mbps
+2017-09-12 06:13:40
+Using server: 210.200.212.249
+Ping: 29 ms
+Download speed: 18.66 Mbps
+Upload speed: 18.25 Mbps
+2017-09-12 06:23:49
+Using server: seedsptp1.seed.net.tw
+Ping: 19 ms
+Download speed: 16.04 Mbps
+Upload speed: 17.13 Mbps
+2017-09-12 06:33:59
+Using server: spttp1.tfn.net.tw
+Ping: 22 ms
+Download speed: 15.03 Mbps
+Upload speed: 13.95 Mbps
+2017-09-12 06:44:10
+Using server: seedsptp1.seed.net.tw
+Ping: 27 ms
+Download speed: 9.62 Mbps
+Upload speed: 19.25 Mbps
+2017-09-12 06:54:24
+Using server: spttp1.tfn.net.tw
+Ping: 30 ms
+Download speed: 13.11 Mbps
+Upload speed: 14.46 Mbps
+2017-09-12 07:04:37
+Using server: spt1.seed.net.tw
+Ping: 21 ms
+Download speed: 34.28 Mbps
+Upload speed: 22.19 Mbps
+2017-09-12 07:14:57
+Using server: spttp1.tfn.net.tw
+Ping: 22 ms
+Download speed: 17.14 Mbps
+Upload speed: 14.81 Mbps
+2017-09-12 07:25:07
+Using server: spttp1.tfn.net.tw
+Ping: 22 ms
+Download speed: 14.39 Mbps
+Upload speed: 14.69 Mbps
+2017-09-12 07:35:17
+Using server: spt1.seed.net.tw
+Ping: 20 ms
+Download speed: 12.46 Mbps
+Upload speed: 17.63 Mbps
+2017-09-12 07:45:29
+Using server: spttp1.taiwanmobile.com
+Ping: 22 ms
+Download speed: 22.45 Mbps
+Upload speed: 17.60 Mbps
+2017-09-12 07:55:38
+Using server: 210.200.212.249
+Ping: 22 ms
+Download speed: 15.69 Mbps
+Upload speed: 18.71 Mbps
+2017-09-12 08:06:02
+Using server: 210.200.212.249
+Ping: 22 ms
+Download speed: 19.86 Mbps
+Upload speed: 21.72 Mbps
+2017-09-12 08:16:12
+Using server: spttp1.taiwanmobile.com
+Ping: 24 ms
+Download speed: 10.20 Mbps
+Upload speed: 18.36 Mbps
+2017-09-12 08:26:25
+Using server: spttp1.tfn.net.tw
+Ping: 22 ms
+Download speed: 11.97 Mbps
+Upload speed: 13.74 Mbps
+2017-09-12 08:36:43
+Using server: spttp1.tfn.net.tw
+Ping: 24 ms
+Download speed: 12.02 Mbps
+Upload speed: 15.62 Mbps
+2017-09-12 08:46:55
+Using server: spt1.seed.net.tw
+Ping: 28 ms
+Download speed: 7.78 Mbps
+Upload speed: 16.88 Mbps
+2017-09-12 08:57:17
+2017-09-12 09:07:40
+Using server: spttp1.tfn.net.tw
+Ping: 28 ms
+Download speed: 8.48 Mbps
+Upload speed: 15.00 Mbps
+2017-09-12 09:18:02
+2017-09-12 09:28:02
+2017-09-12 09:38:02
+2017-09-12 09:48:02
+2017-09-12 09:58:02
+2017-09-14 16:19:38
+Using server: sptnt1.kbro.com.tw
+Ping: 28 ms
+Download speed: 15.71 Mbps
+Upload speed: 20.75 Mbps
+2017-09-14 16:29:52
+Using server: ml-speedtest-1.twmbroadband.net
+Ping: 25 ms
+Download speed: 9.72 Mbps
+Upload speed: 21.24 Mbps
+2017-09-14 16:40:07
+Using server: sptnt1.kbro.com.tw
+Ping: 28 ms
+Download speed: 15.63 Mbps
+Upload speed: 20.71 Mbps
+2017-09-14 16:50:21
+Using server: nt-speedtest-1.twmbroadband.net
+Ping: 26 ms
+Download speed: 24.40 Mbps
+Upload speed: 20.99 Mbps
+2017-09-14 17:00:30
+Using server: spthl1.tfn.net.tw
+Ping: 27 ms
+Download speed: 22.53 Mbps
+Upload speed: 19.62 Mbps
+2017-09-14 17:10:39
+Using server: spthl1.tfn.net.tw
+Ping: 27 ms
+Download speed: 27.23 Mbps
+Upload speed: 19.78 Mbps
+2017-09-14 17:20:52
+Using server: nt-speedtest-1.twmbroadband.net
+Ping: 30 ms
+Download speed: 15.40 Mbps
+Upload speed: 17.25 Mbps
+2017-09-14 17:31:04
+Using server: hl-speedtest-1.twmbroadband.net
+Ping: 27 ms
+Download speed: 17.03 Mbps
+Upload speed: 16.05 Mbps
+2017-09-14 17:41:16
+Using server: hl-speedtest-1.twmbroadband.net
+Ping: 26 ms
+Download speed: 24.82 Mbps
+Upload speed: 16.63 Mbps
+2017-09-14 17:51:26
+Using server: spthl1.tfn.net.tw
+Ping: 21 ms
+Download speed: 24.81 Mbps
+Upload speed: 18.70 Mbps
+2017-09-14 18:01:34
+Using server: spthl1.taiwanmobile.com
+Ping: 28 ms
+Download speed: 19.40 Mbps
+Upload speed: 23.75 Mbps
+2017-09-14 18:11:45
+Using server: sptnt1.taiwanmobile.com
+Ping: 28 ms
+Download speed: 16.26 Mbps
+Upload speed: 21.03 Mbps
+2017-09-14 18:21:56
+Using server: sptnt1.taiwanmobile.com
+Ping: 30 ms
+Download speed: 14.51 Mbps
+Upload speed: 20.11 Mbps
+2017-09-14 18:32:08
+Using server: spthl1.tfn.net.tw
+Ping: 28 ms
+Download speed: 19.46 Mbps
+Upload speed: 17.25 Mbps
+2017-09-14 18:42:18
+Using server: spthl1.kbro.com.tw
+Ping: 30 ms
+Download speed: 19.29 Mbps
+Upload speed: 17.66 Mbps
+2017-09-14 18:52:29
+Using server: nt-speedtest-1.twmbroadband.net
+Ping: 30 ms
+Download speed: 21.93 Mbps
+Upload speed: 20.11 Mbps
+2017-09-14 19:02:39
+Using server: spthl1.tfn.net.tw
+Ping: 28 ms
+Download speed: 16.62 Mbps
+Upload speed: 19.98 Mbps
+2017-09-14 19:12:51
+Using server: sptnt1.taiwanmobile.com
+Ping: 25 ms
+Download speed: 13.75 Mbps
+Upload speed: 19.40 Mbps
+2017-09-14 19:23:03
+Using server: nt-speedtest-1.twmbroadband.net
+Ping: 28 ms
+Download speed: 21.42 Mbps
+Upload speed: 18.08 Mbps
+2017-09-14 19:33:14
+Using server: hl-speedtest-1.twmbroadband.net
+Ping: 25 ms
+Download speed: 22.64 Mbps
+Upload speed: 15.91 Mbps
+2017-09-14 19:43:24
+Using server: hl-speedtest-1.twmbroadband.net
+Ping: 31 ms
+Download speed: 23.87 Mbps
+Upload speed: 18.46 Mbps
+2017-09-14 19:53:36
+Using server: spthl1.kbro.com.tw
+Ping: 23 ms
+Download speed: 17.03 Mbps
+Upload speed: 17.84 Mbps
+2017-09-14 20:03:47
+Using server: sptnt1.taiwanmobile.com
+Ping: 25 ms
+Download speed: 7.04 Mbps
+Upload speed: 9.86 Mbps
