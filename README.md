@@ -20,3 +20,6 @@ python parse_speed_record.py
 ```
 will produce three imgs for  UP_speed, Down_speed, Ping 
 
+![picture](ping(ms).png)
+![picture](up_speed(Mbps).png)
+![picture](down_speed(Mbps).png)
